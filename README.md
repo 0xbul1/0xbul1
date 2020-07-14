@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [fantai](https://fantaiai.com)
+- 🌱 I’m currently learning ts,graphql,react...
+- 📫 How to reach me: 0xbul1233@gmail.com
+- 😄 Pronouns: Thanks watching
+- ⚡ Fun fact: ...
+
 <!--
 **0xbul1/0xbul1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
