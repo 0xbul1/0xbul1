@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [TAICHIUI]()
+- 🔭 I’m currently working on [TAICHI-UI]()
 - 🌱 I’m currently learning ts,graphql,react...
 - 📫 How to reach me: 0xbul1233@gmail.com
 - 😄 Pronouns: Thanks watching
