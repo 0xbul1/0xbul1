@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [fantai](https://fantaiai.com)
+- 🔭 I’m currently working on [TAICHIUI]()
 - 🌱 I’m currently learning ts,graphql,react...
 - 📫 How to reach me: 0xbul1233@gmail.com
 - 😄 Pronouns: Thanks watching
