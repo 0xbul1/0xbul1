@@ -6,6 +6,9 @@
 - 😄 Pronouns: Thanks watching
 - ⚡ Fun fact: ...
 
+[![0xbul1's github stats](https://github-readme-stats.vercel.app/api?username=0xbul1&show_icons=true&hide_title=true])](https://github.com/0xbul1)
+
+
 <!--
 **0xbul1/0xbul1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
