@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xbul1/0xbul1/80a5c60bf187b0cdb0a3837ca070ecb696bd2558/assets/hey.svg"/>
+  <img src="https://raw.githubusercontent.com/0xbul1/0xbul1/bd3ca981122cffd7af5e6e0f2935b635aa1a98b2/assets/hey.svg"/>
   <img src="https://github.com/0xbul1/0xbul1/blob/master/assets/profile.gif?raw=true"/>
 </p>
 <p align="center">
