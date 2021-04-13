@@ -11,7 +11,7 @@
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
 
-<strong><img src="./assets/glasses.gif" width="30"/> Welcome to my GitHub profile.</strong>
+<strong><img src="./assets/glasses.gif" width="30"/> Welcome~ </strong>
 </pre>
 
 
