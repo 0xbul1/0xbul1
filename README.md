@@ -14,8 +14,8 @@
 <strong>Welcome to my GitHub profile.</strong>
 </pre>
 
-##  🎮 Let's play Github together~ <img src="./assets/glasses.gif" width="30"/> 
-
+##  🎮 Let's play Github together~ 
+<img src="./assets/glasses.gif" width="30"/> 
 <img src="./assets/blank.png" width="20"/><img src="https://github.com/0xbul1/0xbul1/blob/master/assets/profile.gif?raw=true"/>
 <br>
 
