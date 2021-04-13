@@ -18,7 +18,6 @@
 
 ## 🎮 Let's play github together~
 
-<br>
 <img src="./assets/blank.png" width="30"/><img src="./assets/blank.png" width="30"/><img src="https://github.com/0xbul1/0xbul1/blob/master/assets/profile.gif?raw=true"/>
 <br>
 
