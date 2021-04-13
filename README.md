@@ -11,11 +11,12 @@
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
 
-<strong>Welcome to my GitHub profile.</strong>
+<strong><img src="./assets/glasses.gif" width="30"/> Welcome to my GitHub profile.</strong>
 </pre>
 
-##  🎮 Let's play Github together~ 
-<img src="./assets/glasses.gif" width="30"/> 
+
+##  🎮  Play Github Together~  
+
 <img src="./assets/blank.png" width="20"/><img src="https://github.com/0xbul1/0xbul1/blob/master/assets/profile.gif?raw=true"/>
 <br>
 
