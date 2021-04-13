@@ -1,5 +1,3 @@
-<h1><img src="./assets/glasses.gif" width="30"/> Hey</h1>
-
 <pre>
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
@@ -16,7 +14,7 @@
 <strong>Welcome to my GitHub profile.</strong>
 </pre>
 
-## 🎮 Let's play github together~
+## <img src="./assets/glasses.gif" width="30"/> Let's play 🎮 GGGGGGithub together~
 
 <img src="./assets/blank.png" width="20"/><img src="https://github.com/0xbul1/0xbul1/blob/master/assets/profile.gif?raw=true"/>
 <br>
