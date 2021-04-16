@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-    <th bgColor="ForestGreen"><img src="https://github.com/0xbul1/0xbul1/blob/master/assets/profile.gif?raw=true"/></th>
+    <th bgcolor="ForestGreen"><img src="https://github.com/0xbul1/0xbul1/blob/master/assets/profile.gif?raw=true"/></th>
  </tr>
 </table>
 <br>
