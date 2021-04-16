@@ -19,10 +19,8 @@
 <table>
 <tr>
     <th><img src="https://github.com/0xbul1/0xbul1/blob/master/assets/profile.gif?raw=true"/></th>
-  </tr>
+ </tr>
 </table>
-<br>
-<img src="./assets/blank.png" width="20"/><img src="https://github.com/0xbul1/0xbul1/blob/master/assets/profile.gif?raw=true"/>
 <br>
 
 <img src="./assets/blank.png" width="30"/><img src="./assets/up.png" width="30"/>
