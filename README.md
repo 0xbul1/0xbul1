@@ -21,7 +21,9 @@
     <th><img src="https://github.com/0xbul1/0xbul1/blob/master/assets/profile.gif?raw=true"/></th>
   </tr>
 </table>
-<br><br>
+<br>
+<img src="./assets/blank.png" width="20" style="visibility:hidden;"/><img src="https://github.com/0xbul1/0xbul1/blob/master/assets/profile.gif?raw=true" style="visibility:hidden;" />
+<br>
 <img src="./assets/blank.png" width="30"/><img src="./assets/up.png" width="30"/>
 <br><img src="./assets/left.png" width="30"/><img src="./assets/blank.png" width="30"/><img src="./assets/right.png" width="30"/><img src="./assets/blank.png" width="30"/><img src="./assets/blank.png" width="30"/><img src="./assets/blank.png" width="30"/><img src="./assets/B.png" width="30"/><img src="./assets/A.png" width="30"/>
 <br><img src="./assets/blank.png" width="30"/><img src="./assets/down.png" width="30"/>
