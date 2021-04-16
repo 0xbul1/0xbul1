@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-    <th><img src="https://github.com/0xbul1/0xbul1/blob/master/assets/profile.gif?raw=true"/></th>
+    <th><img src="./assets/blank.png" width="10"/><img src="https://github.com/0xbul1/0xbul1/blob/master/assets/profile.gif?raw=true"/></th>
  </tr>
 </table>
 <br>
