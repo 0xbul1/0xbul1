@@ -16,6 +16,12 @@
 
 ## 🎮 Play Github Together~
 
+<style>
+table {
+  background: black;
+}
+</style>
+
 
 <table><tbody>
     <tr>
