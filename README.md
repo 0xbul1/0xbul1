@@ -16,7 +16,7 @@
 
 ## 🎮 Play Github Together~
 
-<table background="red">
+<table color="red">
 <tr>
     <th><img src="https://github.com/0xbul1/0xbul1/blob/master/assets/profile.gif?raw=true"/></th>
  </tr>
